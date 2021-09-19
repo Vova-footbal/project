@@ -1,0 +1,414 @@
+.father{
+    margin: 0 auto;
+    padding: 0;
+    width: 1500px;
+    height: 100%;  
+}
+.nav{
+    width: 100%;
+    height: 86px;
+    display: flex;
+}
+.fa-tint{
+    color: #FFCE54;
+    margin-left: 130px;
+    margin-top: 28px;
+}
+.text{
+    margin-top: 24px;
+    color: black;
+    font-size: 31px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.a{
+    margin-left: 600px;
+    opacity: 0.8392156862745098;
+    padding: 28px;
+    color: #2D394C;
+    font-size: 16px;
+    font-family: 'Nunito Sans', sans-serif;
+    text-decoration: none;
+}
+.a1{
+    padding: 28px;
+    color: #2D394C;
+    font-size: 16px;
+    font-family: 'Nunito Sans', sans-serif;
+    text-decoration: none;
+    opacity: 0.8392156862745098;
+}
+.heder{
+    width: 100%;
+    height: 884px;
+    background-color: #54A3DA;
+    display: flex;
+}
+.registration{
+    padding-top: 100px;
+    width: 615px;
+    height: 650px;
+    margin-left: 120px;
+}
+.cloud{
+    width: 49px;
+    height: 28px;
+    opacity: 0.8784313725490196;
+}
+.text1{
+    margin-top: 64px;
+    width: 458px;
+    color: #F7F6F2;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 52px;
+    margin-left: 41px;
+}
+.text2{
+    margin-top: 42px;
+    color: #fff;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 24px;
+    margin-left: 41px;
+}
+.free{
+    margin-top: 68px;
+    display: flex;
+    width: 180px;
+}
+.text3{
+    color: #f7f7f7;
+    font-size: 16px;
+    margin-left: 41px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.text4{
+    width: 43px;
+    color: #f7f7f7;
+    font-size: 15px;
+    background-color: #FFCE54;
+    border: 2px solid #FFCE54;
+    border-radius: 2px;
+    margin-left: 4px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.input{
+    outline: none;
+    margin-left: 41px;
+    margin-top: 30px;
+    border-radius: 10px;
+    width: 424px;
+    height: 55px;
+    background-color: #fff;
+    border: #fff solid;
+    color: black;
+    font-size: 18px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.botton{
+    margin-left: 10px;
+    text-decoration: none;
+    background-color: #77C344;
+    height: 55px;
+    width: 114px;
+    padding: 15px;
+    border: none solid;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.cloud1{
+    margin-top: 80px;
+    width: 32px;
+    height: 18px;
+    margin-left: 33px;
+}
+.hand{
+    margin-left: 123px;
+    overflow: hidden;
+    height: 751px;
+    padding-top: 134px;
+}
+.img{
+    width: 704px;
+    height: 1000px;
+}
+.sidebar{
+    width: 100%;
+    height: 159px;
+    background-color: #F8F8F8;
+    display: flex;
+}
+.elephant{
+    height: 43px;
+    margin-top: 58px;
+    margin-left: 175px;
+    width: 170px;
+    opacity: 0.47058823529411764;
+    color: #2D394C;
+}
+.fa-microsoft{
+    margin-top: 58px;
+    margin-left: 120px;
+    opacity: 0.47058823529411764;
+    color: #2D394C;
+}
+.text5{
+    margin-left: 5px;
+    margin-top: 58px;
+    opacity: 0.47058823529411764;
+    color: #2D394C;
+}
+.text6{
+    margin-top: 58px;
+    opacity: 0.47058823529411764;
+    color: #2D394C;
+    margin-left: 120px;
+}
+.sidebar1{
+    height: 1016px;
+    width: 100%;
+}
+.text7{
+    text-align: center;
+    opacity: 0.8509803921568627;
+    color: #2D394C;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 40px;
+    margin-top: 119px;
+}
+.helper{
+    margin-top: 80px;
+    width: 100%;
+    height: 760px;
+    display: flex;
+    overflow: hidden;
+}
+.info{
+    width: 540px;
+    height: 760px;
+    margin-left: 129px;
+}
+.dop_info{
+    width: 510px;
+    height: 130px;
+    padding: 33px;
+}
+.dwa{
+    display: flex;
+}
+.fa-cloud{
+    color: #64A4D7;
+    margin-top: 22px;
+}
+.fa-stopwatch{
+    color: #64A4D7;
+    margin-top: 22px;
+}
+.fa-comments{
+    color: #64A4D7;
+    margin-top: 22px;
+}
+.fa-clipboard-list{
+    color: #64A4D7;
+    margin-top: 22px;
+}
+.text8{
+    opacity: 0.9019607843137255;
+    color: #2D394C;
+    font-size: 22px;
+    margin-left: 10px;
+}
+.text9{
+    width: 470px;
+    color: #9499A2;
+    font-size: 14px;
+    margin-left: 5px;
+    margin-bottom: 40px;
+}
+.macbook{
+    margin-top: 200px;
+    margin-left: 82px;
+    width: 850px;
+    height: 580px;
+}
+.content{
+    width: 100%;
+    height: 733px;
+    opacity: 0.611764705882353;
+    color: #F1F1F2;
+    overflow: hidden;
+}
+.text10{
+    text-align: center;
+    margin-top: 165px;
+    opacity: 0.9019607843137255;
+    color: #2D394C;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 40px;
+}
+.left{
+    width: 730px;
+    height: 400px;
+    margin-left: 124px;
+    margin-top: 100px;
+}
+.fa-cloud-moon{
+    color: #64A4D7;
+}
+.text11{
+    opacity: 0.9;
+    font-size: 28px;
+    color: #2D394C;
+    margin-left: 60px;
+    position: relative;
+    bottom: 55px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.text12{
+    position: relative;
+    bottom: 30px;
+    width: 730px;
+    font-size: 16px;
+    opacity: 0.8901960784313725;
+    color: #5A626E;
+    font-family: 'Open Sans', sans-serif;
+}
+.number{
+    display: flex;
+    margin-left: 540px;
+}
+.blue{
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+    background-color: #64A4D7;
+}
+.text13{
+    position: relative;
+    bottom: 18px;
+    color: #FFFFFF;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+.text14{
+    color: #2D394C;
+    opacity: 0.27058823529411763;
+    font-family: 'Nunito Sans', sans-serif;
+    margin-left: 24px;
+    font-size: 16px;
+}
+.img1{
+    opacity: 0.7607843137254902;
+    width: 2033px;
+    height: 694px;
+    position: relative;
+    bottom: 650px;
+    margin-left: 400px;
+}
+.footer{
+    height: 482px;
+    width: 100%;
+}
+.helper1{
+    margin-left: 320px;
+    width: 859px;
+    height: 350px;
+    display: block;
+}
+.text15{
+    text-align: center;
+    color: #5A626E;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 40px;
+}
+.text16{
+    color: #5A626E;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 48px;
+}
+.input1{
+    outline: none;
+    margin-top: 40px;
+    border-radius: 5px;
+    width: 631px;
+    height: 60px;
+    background-color: #fff;
+    border: black 1px solid;
+    color: black;
+    font-size: 18px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.botton1{
+    border: 23px solid #77C344;
+    background-color: #77C344;
+    color: #fff;
+    margin-left: 35px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-family: 'Ubuntu', sans-serif;
+}
+.footer1{
+    width: 100%;
+    height: 140px;
+    display: flex;
+    background-color: #F1F1F2;
+}
+#tint{
+    color: #9499A2;
+    margin-left: 130px;
+    margin-top: 57px;
+}
+.text17{
+    color: #9499A2;
+    margin-top: 57px;
+    font-size: 30px;
+    margin-left: 6px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.ssilka{
+    opacity: 0.9019607843137255;
+    font-size: 14px;
+    font-family: 'Ubuntu', sans-serif;
+    color: #4d5664;
+    margin-left: 395px;
+    text-decoration: none;
+    margin-top: 63px;
+}
+.ssilka1{
+    margin-top: 63px;
+    opacity: 0.9019607843137255;
+    font-size: 14px;
+    font-family: 'Ubuntu', sans-serif;
+    color: #4d5664;
+    margin-left: 30px;
+    text-decoration: none;
+}
+.white{
+    width: 2px;
+    height: 28px;
+    opacity: 0.2901960784313726;
+    background-color: #777777;
+    margin-left: 30px;
+    margin-top: 54px;
+}
+.fa-twitter{
+    color: #4CBCF6;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 60px;
+}
+.fa-facebook-f{
+    color: #4A6DAA;
+    font-size: 20px;
+    margin-left: 37px;
+    margin-top: 57px;
+}
+.fa-google-plus-g{
+    color: #E74C40;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 57px;
+}
